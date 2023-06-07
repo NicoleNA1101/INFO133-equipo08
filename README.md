@@ -1,3 +1,3 @@
 # INFO133-equipo08
  Integrantes:
-  Luciano Pavel-Sebastian Villaroel-Nicole Navarro 
+  Luciano Guzman-Sebastian Villaroel-Nicole Navarro 
