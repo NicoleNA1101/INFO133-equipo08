@@ -40,7 +40,9 @@ CREATE TABLE Salud(
     ID_Establecimiento          INT NOT NULL,
     N_Establecimiento           VARCHAR(200) NOT NULL,
     Telefono_Establecimiento    VARCHAR(20) NOT NULL,
-    PRIMARY KEY (`ID_Establecimiento`)
+    ID_C                        INT NOT NULL,
+    PRIMARY KEY (`ID_Establecimiento`),
+    FOREIGN KEY (ID_C) REFERENCES Comuna (ID_C)
 );
 
 DROP TABLE IF EXISTS `Trabajo`;
@@ -75,12 +77,12 @@ DROP TABLE IF EXISTS `Entretencion`;
 CREATE TABLE Entretencion(
     ID_Estadio          INT          NOT NULL,
     Nombre_Estadio      VARCHAR(200) NULL,
-    Region_Estadio      VARCHAR(200) NOT NULL,
-    Ciudad_Estadio      VARCHAR(200) NOT NULL,
     Ano_Apertura        INT          NOT NULL,
     Equipos_Locales     VARCHAR(200) NOT NULL,
     Capacidad_Estadio   INT          NOT NULL,
-    PRIMARY KEY (`ID_Estadio`)
+    ID_C                INT          NOT NULL,
+    PRIMARY KEY (`ID_Estadio`),
+    FOREIGN KEY (ID_C) REFERENCES Comuna (ID_C)
 );
 
 
