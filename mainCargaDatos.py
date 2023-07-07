@@ -17,6 +17,7 @@ csv_file3 = 'Comunas.csv'
 csv_file4 = 'Trabajo.csv'
 csv_file5 = 'Regiones.csv'
 csv_file6 = 'Seguridad.csv'
+csv_file7 = 'Bienestar.csv'
 
 # Establecer la conexión a la base de datos
 connection = pymysql.connect(host=host, user=user, password=password, database=database, port=port)
@@ -113,11 +114,11 @@ try:
             '''       
             i=0
             for row in csv_data:
-                print((i,row[2],row[3],row[4],row[5], row[6],row[7],row[0]))
+                #print((i,row[2],row[3],row[4],row[5], row[6],row[7],row[0]))
                 cursor.execute(insert_query, (i,row[2],row[3],row[4],row[5], row[6],row[7],row[0]))
                 i+=1
 
-        
+        #Carga Entretencion
         with open(csv_file1, 'r') as file:
             csv_data = csv.reader(file, delimiter=',')
             header = next(csv_data)
@@ -127,9 +128,23 @@ try:
             '''       
             i=0
             for row in csv_data:
-                print((i,row[1],row[2],row[4],row[3],row[0]))
+                #print((i,row[1],row[2],row[4],row[3],row[0]))
                 cursor.execute(insert_query,(i,row[1],row[2],row[4],row[3],row[0]))
-                i+=1     
+                i+=1  
+
+        #Carga Bienestar
+        with open(csv_file7, 'r',encoding='latin-1') as file:
+            csv_data = csv.reader(file, delimiter=',')
+            header = next(csv_data)
+            insert_query = '''
+            INSERT INTO Bienestar (ID_Bienestar, P_Salud, P_Seguridad, P_Trabajo, P_Entretencion, Total,ID_C)
+            VALUES (%s,%s,%s,%s,%s,%s,%s)
+            '''       
+            i=0
+            for row in csv_data:
+                #print((i,row[3],row[4],row[2],row[5],row[6],row[0]))
+                cursor.execute(insert_query,(i,row[3],row[4],row[2],row[5],row[6],row[0]))
+                i+=1    
 
         # Confirmar los cambios en la base de datos
         connection.commit()

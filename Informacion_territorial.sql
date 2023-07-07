@@ -85,6 +85,18 @@ CREATE TABLE Entretencion(
     FOREIGN KEY (ID_C) REFERENCES Comuna (ID_C)
 );
 
+DROP TABLE IF EXISTS `Bienestar`;
+CREATE TABLE Bienestar(
+    ID_Bienestar        INT          NOT NULL,
+    P_Salud             INT          NOT NULL,
+    P_Seguridad         INT          NOT NULL,
+    P_Trabajo           INT          NOT NULL,
+    P_Entretencion      INT          NOT NULL,
+    Total               INT          NOT NULL,
+    ID_C                INT          NOT NULL,
+    PRIMARY KEY (`ID_Bienestar`),
+    FOREIGN KEY (ID_C) REFERENCES Comuna (ID_C)
+);
 
 
 
