@@ -1,0 +1,347 @@
+Código Único Territorial;Nombre;Nombre Provincia;Nombre Region;Superficie (km2);Población 2020;Densidad(hab./km2)
+15101;Arica;Arica;AP;4799,4;247552;51.6
+15102;Camarones;Arica;AP;3927;1233;0.31
+15201;Putre;Parinacota;AP;5902,5;2515;0.43
+15202;General Lagos;Parinacota;AP;2244,4;810;0.36
+1101;Iquique;Iquique;TA;2242,1;223463;99,6
+1107;Alto Hospicio;Iquique;TA;572.9;129999;226,8
+1401;Pozo Almonte;Tamarugal;TA;13765,8;17395;1.26
+1402;Camiña;Tamarugal;TA;2200,2;1375;0.62
+1403;Colchane;Tamarugal;TA;4015,6;1583;0.39
+1404;Huara;Tamarugal;TA;10474,6;3000;0.29
+1405;Pica;Tamarugal;TA;8934,3;5958;0,66
+2101;Antofagasta;Antofagasta;AN;30718,1;425725;13.8
+2102;Mejillones;Antofagasta;AN;3803,9;14776;3.88
+2103;Sierra Gorda;Antofagasta;AN;12886;1746;0.14
+2104;Taltal;Antofagasta;AN;20405,1;13657;0.67
+2201;Calama;El Loa;AN;15596,9;190336;12.2
+2202;Ollagüe;El Loa;AN;2964;287;0.09
+2203;San Pedro de Atacama;El Loa;AN;23439;10434;0.45
+2301;Tocopilla;Tocopilla;AN;4038,8;28079;6.95
+2302;María Elena;Tocopilla;AN;12197;6814;0.55
+3101;Copiapó;Copiapó;AT;16681,3;171766;10.2
+3102;Caldera;Copiapó;AT;4666,6;19426;4.16
+3103;Tierra Amarilla;Copiapó;AT;11191;14312;1.27
+3201;Chañaral;Chañaral;AT;5772;13164;2.28
+3202;Diego de Almagro;Chañaral;AT;18664;14358;0.77
+3301;Vallenar;Huasco;AT;7084;57009;08.04
+3302;Alto del Carmen;Huasco;AT;5939;5729;0.96
+3303;Freirina;Huasco;AT;3207,9;7681;2.39
+3304;Huasco;Huasco;AT;1601,4;11264;07.03
+4101;La Serena;Elqui;CO;1892,8;249656;131.8
+4102;Coquimbo;Elqui;CO;1429;256735;179.6
+4103;Andacollo;Elqui;CO;310;11791;38.0
+4104;La Higuera;Elqui;CO;4158,2;4450;01.07
+4105;Paihuano;Elqui;CO;1495;4675;3.12
+4106;Vicuña;Elqui;CO;7610;29741;3.90
+4201;Illapel;Choapa;CO;2629;32801;12.4
+4202;Canela;Choapa;CO;2196,6;9546;4.34
+4203;Los Vilos;Choapa;CO;1823,8;23374;12.8
+4204;Salamanca;Choapa;CO;3445;29110;8.44
+4301;Ovalle;Limarí;CO;3835;121269;31.6
+4302;Combarbalá;Limarí;CO;2257,5;13884;6.14
+4303;Monte Patria;Limarí;CO;4366,9;32527;7.44
+4304;Punitaqui;Limarí;CO;1339;12165;09.08
+4305;Río Hurtado;Limarí;CO;2180;4372;02.01
+5101;Valparaíso;Valparaíso;VA;401.6;315732;810.2
+5102;Casablanca;Valparaíso;VA;953;29170;30.6
+5103;Concón;Valparaíso;VA;76;45889;603.8
+5104;Juan Fernández;Valparaíso;VA;149.4;1033;6.93
+5105;Puchuncaví;Valparaíso;VA;300;20071;66.9
+5107;Quintero;Valparaíso;VA;148;36135;244.1
+5109;Viña del Mar;Valparaíso;VA;121.6;361371;2962
+5201;Isla de Pascua;Isla de Pascua;VA;163.6;8277;50.4
+5301;Los Andes;Los Andes;VA;1248;68093;54.5
+5302;Calle Larga;Los Andes;VA;321.7;16482;51.1
+5303;Rinconada;Los Andes;VA;122.5;11263;91.5
+5304;San Esteban;Los Andes;VA;681;20643;30.3
+5401;La Ligua;Petorca;VA;1163;37739;32.4
+5402;Cabildo;Petorca;VA;1455;20663;14.2
+5403;Papudo;Petorca;VA;64.3;6201;96.8
+5404;Petorca;Petorca;VA;1517;10558;6.95
+5405;Zapallar;Petorca;VA;288;7994;27.7
+5501;Quillota;Quillota;VA;302;97572;323
+5502;La Calera;Quillota;VA;60.5;53591;878.5
+5503;Hijuelas;Quillota;VA;267;19099;71.5
+5504;La Cruz;Quillota;VA;78;25321;324.6
+5506;Nogales;Quillota;VA;405;23490;58
+5601;San Antonio;San Antonio;VA;405;96761;238.9
+5602;Algarrobo;San Antonio;VA;176;15174;86.2
+5603;Cartagena;San Antonio;VA;246;25357;103
+5604;El Quisco;San Antonio;VA;51;17742;347.8
+5605;El Tabo;San Antonio;VA;99;14338;144.8
+5606;Santo Domingo;San Antonio;VA;536;11934;22.2
+5701;San Felipe;San Felipe de Aconcagua;VA;186;83494;448.8
+5702;Catemu;San Felipe de Aconcagua;VA;361.6;15213;42
+5703;Llay-Llay;San Felipe de Aconcagua;VA;349.1;26533;76
+5704;Panquehue;San Felipe de Aconcagua;VA;121.9;7633;62.5
+5705;Putaendo;San Felipe de Aconcagua;VA;1474;17645;11.9
+5706;Santa María;San Felipe de Aconcagua;VA;166.3;16367;98.5
+5801;Quilpué;Marga Marga;VA;536.9;167085;311.1
+5802;Limache;Marga Marga;VA;294;49931;169.8
+5803;Olmué;Marga Marga;VA;232;19266;83
+5804;Villa Alemana;Marga Marga;VA;97;139310;1436,1
+6101;Rancagua;Cachapoal;LI;260.3;265211;1020
+6102;Codegua;Cachapoal;LI;287;14096;49.1
+6103;Coinco;Cachapoal;LI;98;7831;79.9
+6104;Coltauco;Cachapoal;LI;225;21263;94.5
+6105;Doñihue;Cachapoal;LI;78;22700;291
+6106;Graneros;Cachapoal;LI;113;36504;323
+6107;Las Cabras;Cachapoal;LI;749;26740;35.7
+6108;Machalí;Cachapoal;LI;2597;59913;23.1
+6109;Malloa;Cachapoal;LI;113;14163;125.3
+6110;Mostazal;Cachapoal;LI;524;27462;52.4
+6111;Olivar;Cachapoal;LI;45;14624;324.9
+6112;Peumo;Cachapoal;LI;153.1;14952;97.7
+6113;Pichidegua;Cachapoal;LI;320;20743;64.8
+6114;Quinta de Tilcoco;Cachapoal;LI;93;13877;149.2
+6115;Rengo;Cachapoal;LI;755;63710;84.3
+6116;Requínoa;Cachapoal;LI;673;30371;45.1
+6117;San Vicente;Cachapoal;LI;497.8;50617;101.6
+6201;Pichilemu;Cardenal Caro;LI;749.1;17882;23.8
+6202;La Estrella;Cardenal Caro;LI;435;3114;7.15
+6203;Litueche;Cardenal Caro;LI;619;6765;10.9
+6204;Marchihue;Cardenal Caro;LI;660;7632;11.5
+6205;Navidad;Cardenal Caro;LI;300;6904;23
+6206;Paredones;Cardenal Caro;LI;562;6349;11.2
+6301;San Fernando;Colchagua;LI;2441;78642;32.2
+6302;Chépica;Colchagua;LI;503;15925;31.6
+6303;Chimbarongo;Colchagua;LI;498;37696;75.6
+6304;Lolol;Colchagua;LI;597;7289;12.2
+6305;Nancagua;Colchagua;LI;111;19141;172.4
+6306;Palmilla;Colchagua;LI;237;13299;56.1
+6307;Peralillo;Colchagua;LI;282.6;11848;41.8
+6308;Placilla;Colchagua;LI;146.9;9164;62.3
+6309;Pumanque;Colchagua;LI;441;3531;8
+6310;Santa Cruz;Colchagua;LI;419.5;41096;97.8
+7101;Talca;Talca;ML;232;236724;1016
+7102;Constitución;Talca;ML;1344;50348;37.4
+7103;Curepto;Talca;ML;1073,8;9426;8.77
+7104;Empedrado;Talca;ML;565;4206;7.44
+7105;Maule;Talca;ML;190;60000;315.7
+7106;Pelarco;Talca;ML;332;9083;27.3
+7107;Pencahue;Talca;ML;956.8;8601;8.98
+7108;Río Claro;Talca;ML;431;14753;34.2
+7109;San Clemente;Talca;ML;4504;46292;10.2
+7110;San Rafael;Talca;ML;263.5;9959;17.9
+7201;Cauquenes;Cauquenes;ML;2216;50441;19.9
+7202;Chanco;Cauquenes;ML;530;9331;17.6
+7203;Pelluhue;Cauquenes;ML;371;8092;21.8
+7301;Curicó;Curicó;ML;1328;149626;123.2
+7302;Hualañé;Curicó;ML;629;10222;16.2
+7303;Licantén;Curicó;ML;273;6989;25.6
+7304;Molina;Curicó;ML;1552;49800;32
+7305;Rauco;Curicó;ML;309;11248;36.4
+7306;Romeral;Curicó;ML;1597;16170;10.1
+7307;Sagrada Familia;Curicó;ML;548.8;19469;35.4
+7308;Teno;Curicó;ML;618.4;30850;49.9
+7309;Vichuquén;Curicó;ML;426;4381;10.2
+7401;Linares;Linares;ML;1466;101073;68.9
+7402;Colbún;Linares;ML;2899,9;22565;7.78
+7403;Longaví;Linares;ML;1454;32810;22.5
+7404;Parral;Linares;ML;1638;44544;27.1
+7405;Retiro;Linares;ML;827;21071;25.4
+7406;San Javier;Linares;ML;1313;49451;37.6
+7407;Villa Alegre;Linares;ML;190;17512;92.1
+7408;Yerbas Buenas;Linares;ML;262;19200;73.2
+16101;Chillán;Diguillín;NB;511.2;198624;388.6
+16102;Bulnes;Diguillín;NB;425.4;22607;53.1
+16103;Chillán Viejo;Diguillín;NB;291.8;33827;115.8
+16104;El Carmen;Diguillín;NB;664.3;12334;18.5
+16105;Pemuco;Diguillín;NB;562.7;8639;15.3
+16106;Pinto;Diguillín;NB;1164;11880;10.2
+16107;Quillón;Diguillín;NB;423;18777;44.3
+16108;San Ignacio;Diguillín;NB;363.6;16624;45.6
+16109;Yungay;Diguillín;NB;823.5;18596;22.5
+16201;Quirihue;Itata;NB;589;12192;20.6
+16202;Cobquecura;Itata;NB;570.3;5275;9.25
+16203;Coelemu;Itata;NB;342.3;16845;49.2
+16204;Ninhue;Itata;NB;401.2;5414;13.5
+16205;Portezuelo;Itata;NB;282.3;4940;17.5
+16206;Ránquil;Itata;NB;248.3;6261;25.2
+16207;Treguaco;Itata;NB;313.1;5696;18.1
+16301;San Carlos;Punilla;NB;874;56252;64.3
+16302;Coihueco;Punilla;NB;1776,6;28375;15.9
+16303;Ñiquén;Punilla;NB;493.1;11567;23.4
+16304;San Fabián;Punilla;NB;1568,3;4654;2.96
+16305;San Nicolás;Punilla;NB;490.5;12172;24.7
+8101;Concepción;Concepción;BI;221.6;238092;1072,4
+8102;Coronel;Concepción;BI;279.4;125829;451
+8103;Chiguayante;Concepción;BI;71.5;91180;1266,3
+8104;Florida;Concepción;BI;608.6;11841;19.4
+8105;Hualqui;Concepción;BI;530.5;26201;49.3
+8106;Lota;Concepción;BI;135.8;45750;336.3
+8107;Penco;Concepción;BI;107.6;49865;461.7
+8108;San Pedro de La Paz;Concepción;BI;112.5;145906;1291,2
+8109;Santa Juana;Concepción;BI;731.2;14779;20.2
+8110;Talcahuano;Concepción;BI;92.3;158345;1721,1
+8111;Tomé;Concepción;BI;494.5;58729;118.6
+8112;Hualpén;Concepción;BI;53.5;97273;1802,3
+8201;Lebu;Arauco;BI;561.4;27100;48.3
+8202;Arauco;Arauco;BI;956.1;38679;40.4
+8203;Cañete;Arauco;BI;1089,2;37003;33.9
+8204;Contulmo;Arauco;BI;638.8;6330;9.90
+8205;Curanilahue;Arauco;BI;994.3;33892;34
+8206;Los Álamos;Arauco;BI;599.1;22524;37.6
+8207;Tirúa;Arauco;BI;624.4;11019;17.6
+8301;Los Ángeles;Biobío;BI;1748,2;218515;125.0
+8302;Antuco;Biobío;BI;1884,1;4306;2.28
+8303;Cabrero;Biobío;BI;639.8;30725;48
+8304;Laja;Biobío;BI;339.8;23873;70.2
+8305;Mulchén;Biobío;BI;1925,3;31041;16.1
+8306;Nacimiento;Biobío;BI;934.9;27944;29.8
+8307;Negrete;Biobío;BI;156.5;10429;66.4
+8308;Quilaco;Biobío;BI;1123,7;4179;3.71
+8309;Quilleco;Biobío;BI;1121,8;10032;8.94
+8310;San Rosendo;Biobío;BI;92.4;3611;39.2
+8311;Santa Bárbara;Biobío;BI;1254,9;14592;11.6
+8312;Tucapel;Biobío;BI;914.9;15205;16.6
+8313;Yumbel;Biobío;BI;727;22132;30.4
+8314;Alto Biobío;Biobío;BI;2124,6;6775;3.18
+9101;Temuco;Cautín;AR;464;302931;652.8
+9102;Carahue;Cautín;AR;1340,6;25486;19
+9103;Cunco;Cautín;AR;1906,5;18055;9.46
+9104;Curarrehue;Cautín;AR;1170,7;7802;6.66
+9105;Freire;Cautín;AR;935.2;25446;27.2
+9106;Galvarino;Cautín;AR;568.2;12633;22.2
+9107;Gorbea;Cautín;AR;694.5;15148;21.7
+9108;Lautaro;Cautín;AR;901.1;40746;45.2
+9109;Loncoche;Cautín;AR;976.8;24739;25.3
+9110;Melipeuco;Cautín;AR;1107,3;6265;5.65
+9111;Nueva Imperial;Cautín;AR;732.5;33777;46
+9112;Padre Las Casas;Cautín;AR;400.7;82110;204.7
+9113;Perquenco;Cautín;AR;330.7;7223;21.8
+9114;Pitrufquén;Cautín;AR;580.7;26096;44.9
+9115;Pucón;Cautín;AR;1248,5;29782;23.8
+9116;Saavedra;Cautín;AR;400.8;12793;31.9
+9117;Teodoro Schmidt;Cautín;AR;649.9;15786;24.2
+9118;Toltén;Cautín;AR;860.4;10055;11.6
+9119;Vilcún;Cautín;AR;1420,9;30766;21.6
+9120;Villarrica;Cautín;AR;1291,1;59103;45.7
+9121;Cholchol;Cautín;AR;427.9;12341;28.8
+9201;Angol;Malleco;AR;1194,4;56058;46.9
+9202;Collipulli;Malleco;AR;1295,9;26148;20.1
+9203;Curacautín;Malleco;AR;1664;18178;10.9
+9204;Ercilla;Malleco;AR;499.7;8458;16.9
+9205;Lonquimay;Malleco;AR;3914,2;11049;2.82
+9206;Los Sauces;Malleco;AR;849.8;7517;8.84
+9207;Lumaco;Malleco;AR;1119;10050;8.98
+9208;Purén;Malleco;AR;464.9;12188;26.2
+9209;Renaico;Malleco;AR;267.4;10833;40.4
+9210;Traiguén;Malleco;AR;908;19314;21.2
+9211;Victoria;Malleco;AR;1256;35467;28.2
+14101;Valdivia;Valdivia;LR;1016;176774;173.9
+14102;Corral;Valdivia;LR;767;5447;7.10
+14103;Lanco;Valdivia;LR;532.4;17652;33.1
+14104;Los Lagos;Valdivia;LR;1791,2;20518;11.4
+14105;Máfil;Valdivia;LR;583;7389;12.6
+14106;Mariquina;Valdivia;LR;1320,5;23350;17.6
+14107;Paillaco;Valdivia;LR;896;20798;23.2
+14108;Panguipulli;Valdivia;LR;3292;35991;10.9
+14201;La Unión;Ranco;LR;2137;39538;18.5
+14202;Futrono;Ranco;LR;2267,5;15261;6.72
+14203;Lago Ranco;Ranco;LR;1763,3;10292;5.83
+14204;Río Bueno;Ranco;LR;2211,7;32925;14.8
+10101;Puerto Montt;Llanquihue;LL;1673;269398;147.0
+10102;Calbuco;Llanquihue;LL;590.8;36744;62.1
+10103;Cochamó;Llanquihue;LL;3910,8;4006;01.02
+10104;Fresia;Llanquihue;LL;1278,1;12656;9.90
+10105;Frutillar;Llanquihue;LL;831.4;20223;24.3
+10106;Los Muermos;Llanquihue;LL;1245,8;17817;14.2
+10107;Llanquihue;Llanquihue;LL;420.8;18621;44.2
+10108;Maullín;Llanquihue;LL;860.8;14894;17.2
+10109;Puerto Varas;Llanquihue;LL;4064,9;48620;11.9
+10201;Castro;Chiloé;LL;472.5;47607;100.6
+10202;Ancud;Chiloé;LL;1752,4;42458;24.2
+10203;Chonchi;Chiloé;LL;1362,1;16013;11.7
+10204;Curaco de Vélez;Chiloé;LL;80;4066;50.8
+10205;Dalcahue;Chiloé;LL;1239,4;15069;12.1
+10206;Puqueldón;Chiloé;LL;97.3;4201;43.3
+10207;Queilén;Chiloé;LL;332.9;5543;16.6
+10208;Quellón;Chiloé;LL;3244;29309;09.03
+10209;Quemchi;Chiloé;LL;440.3;8783;19.9
+10210;Quinchao;Chiloé;LL;160.7;8298;51.5
+10301;Osorno;Osorno;LL;951;173410;182.3
+10302;Puerto Octay;Osorno;LL;1795,7;9192;5.11
+10303;Purranque;Osorno;LL;1458,8;21080;14.4
+10304;Puyehue;Osorno;LL;1597,9;11787;7.37
+10305;Río Negro;Osorno;LL;1265,7;14275;11.2
+10306;San Juan de la Costa;Osorno;LL;1517;7639;05.03
+10307;San Pablo;Osorno;LL;637.3;10553;16.5
+10401;Chaitén;Palena;LL;8470,5;5020;0.59
+10402;Futaleufú;Palena;LL;1280;2806;2.19
+10403;Hualaihué;Palena;LL;2787,7;9525;3.41
+10404;Palena;Palena;LL;2763,7;1827;0.66
+11101;Coyhaique;Coyhaique;AI;7290,2;61210;8.39
+11102;Lago Verde;Coyhaique;AI;5422,3;920;0.16
+11201;Aysén;Aysén;AI;29796,4;25002;0.83
+11202;Cisnes;Aysén;AI;16093;5828;0.36
+11203;Guaitecas;Aysén;AI;620.6;1599;2.57
+11301;Cochrane;Capitán Prat;AI;8599,5;3685;0.42
+11302;'O''Higgins';Capitán Prat;AI;8182,5;661;0.08
+11303;Tortel;Capitán Prat;AI;19710,6;572;0.03
+11401;Chile Chico;General Carrera;AI;5737,1;5121;0.89
+11402;Río Ibáñez;General Carrera;AI;5997,2;2699;0.45
+12101;Punta Arenas;Magallanes;MA;17846,3;141984;7.95
+12102;Laguna Blanca;Magallanes;MA;3695,6;264;0.07
+12103;Río Verde;Magallanes;MA;17248;211;0.01
+12104;San Gregorio;Magallanes;MA;6883,7;681;0.09
+12201;Cabo de Hornos;Antártica Chilena;MA;15578,7;1983;0.13
+12202;Antártica;Antártica Chilena;MA;1250257,6;137;1
+12301;Porvenir;Tierra del Fuego;MA;9707,4;7323;0.75
+12302;Primavera;Tierra del Fuego;MA;4253,4;694;0.16
+12303;Timaukel;Tierra del Fuego;MA;10758,9;282;0.02
+12401;Natales;Última Esperanza;MA;49924,1;23782;0.47
+12402;Torres del Paine;Última Esperanza;MA;6630;1021;0.15
+13101;Santiago;Santiago;RM;23.2;503147;21875,9
+13102;Cerrillos;Santiago;RM;21;88956;4236
+13103;Cerro Navia;Santiago;RM;11;142465;12951,3
+13104;Conchalí;Santiago;RM;10.7;139195;12654
+13105;El Bosque;Santiago;RM;14.2;172000;12285,7
+13106;Estación Central;Santiago;RM;15;206792;13786,1
+13107;Huechuraba;Santiago;RM;44.8;112528;2500,6
+13108;Independencia;Santiago;RM;7;142065;20295
+13109;La Cisterna;Santiago;RM;10;100434;10043,4
+13110;La Florida;Santiago;RM;70.2;402433;5749
+13111;La Granja;Santiago;RM;10;122557;12255,7
+13112;La Pintana;Santiago;RM;30.6;189335;6107,5
+13113;La Reina;Santiago;RM;23;100252;4358,7
+13114;Las Condes;Santiago;RM;99;330759;3341
+13115;Lo Barnechea;Santiago;RM;1024;124076;121.1
+13116;Lo Espejo;Santiago;RM;7;103865;14837,8
+13117;Lo Prado;Santiago;RM;7;104403;14914,7
+13118;Macul;Santiago;RM;12.9;134635;10356,5
+13119;Maipú;Santiago;RM;135.5;578605;4254,4
+13120;Ñuñoa;Santiago;RM;16.9;250192;14717,1
+13121;Pedro Aguirre Cerda;Santiago;RM;10;107803;10780,3
+13122;Peñalolén;Santiago;RM;54;266798;4940,7
+13123;Providencia;Santiago;RM;14.3;157749;11267,7
+13124;Pudahuel;Santiago;RM;197;253139;1284,9
+13125;Quilicura;Santiago;RM;58;254694;4391,2
+13126;Quinta Normal;Santiago;RM;13;136368;10489,8
+13127;Recoleta;Santiago;RM;16;190070;11879,3
+13128;Renca;Santiago;RM;24;160847;6993,3
+13129;San Joaquín;Santiago;RM;9.7;103485;10348,5
+13130;San Miguel;Santiago;RM;10.0;133059;13305,9
+13131;San Ramón;Santiago;RM;7;86510;12358,5
+13132;Vitacura;Santiago;RM;28.3;96774;3456,2
+13201;Puente Alto;Cordillera;RM;88;645909;7339,8
+13202;Pirque;Cordillera;RM;445.3;30433;68.3
+13203;San José de Maipo;Cordillera;RM;4994,8;18644;3.74
+13301;Colina;Chacabuco;RM;971.2;180353;185,7
+13302;Lampa;Chacabuco;RM;452;126898;280,7
+13303;Til Til;Chacabuco;RM;653;21477;32.8
+13401;San Bernardo;Maipo;RM;155;334836;2160,2
+13402;Buin;Maipo;RM;214;109641;512,3
+13403;Calera de Tango;Maipo;RM;73.3;28525;390.7
+13404;Paine;Maipo;RM;820;82766;100.9
+13501;Melipilla;Melipilla;RM;1345;141612;105.2
+13502;Alhué;Melipilla;RM;845;7405;8.76
+13503;Curacaví;Melipilla;RM;693;36430;52.5
+13504;María Pinto;Melipilla;RM;393.5;14926;37.8
+13505;San Pedro;Melipilla;RM;788;11953;15.1
+13601;Talagante;Talagante;RM;126;81838;649.5
+13602;El Monte;Talagante;RM;118;40014;339.1
+13603;Isla de Maipo;Talagante;RM;189;40171;212.5
+13604;Padre Hurtado;Talagante;RM;80.8;74188;915.9
+13605;Peñaflor;Talagante;RM;69;101058;1464,6
