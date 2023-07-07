@@ -47,7 +47,7 @@ try:
             VALUES (%s,%s,%s,%s,%s)
             '''
             for row in csv_data:
-                print((row[0],row[2],row[4],row[1]))
+                #print((row[0],row[2],row[4],row[1]))
                 try:
                     cursor.execute(insert_query, (row[0],row[2],row[5],row[1],row[3]))
                 except pymysql.err.IntegrityError as e:
@@ -81,20 +81,21 @@ try:
                 i+=1
 
         #Carga Salud
-        with open(csv_file2, 'r') as file:
-            csv_data = csv.reader(file, delimiter=';')
+        with open(csv_file2, 'r',encoding='latin-1') as file:
+            csv_data = csv.reader(file, delimiter=',')
             header = next(csv_data)
             insert_query = '''
-            INSERT INTO Salud (ID_Establecimiento, N_Establecimiento, Telefono_Establecimiento)
-            VALUES (%s,%s,%s)
+            INSERT INTO Salud (ID_Establecimiento, N_Establecimiento, Telefono_Establecimiento, ID_C)
+            VALUES (%s,%s,%s,%s)
             '''
             i=0
             for row in csv_data:
-                if(row[4]==''):
-                    row[4] = 0
-                #print((i, row[3], row[4]))
+                #print(row)
+                if(row[3]==''):
+                    row[3] = 0
+                
                 try:    
-                    cursor.execute(insert_query, (i, row[3],row[4]))
+                    cursor.execute(insert_query, (i, row[2],row[3],row[0]))
                     i+=1
                 except pymysql.err.DataError as e:
                     print("Error de datos:", e)
@@ -116,20 +117,19 @@ try:
                 cursor.execute(insert_query, (i,row[2],row[3],row[4],row[5], row[6],row[7],row[0]))
                 i+=1
 
-        """
+        
         with open(csv_file1, 'r') as file:
             csv_data = csv.reader(file, delimiter=',')
             header = next(csv_data)
             insert_query = '''
-            INSERT INTO Entretencion (ID_Estadio, Nombre_Estadio, Region_Estadio, Ciudad_Estadio, Ano_Apertura, Equipos_Locales, Capacidad_Estadio )
-            VALUES (%s,%s,%s,%s,%s,%s,%s)
+            INSERT INTO Entretencion (ID_Estadio, Nombre_Estadio, Ano_Apertura, Equipos_Locales, Capacidad_Estadio, ID_C)
+            VALUES (%s,%s,%s,%s,%s,%s)
             '''       
             i=0
             for row in csv_data:
-                print((i,row[0],row[2],row[1],row[3], row[5],row[4]))
-                cursor.execute(insert_query, (i,row[0],row[2],row[1],row[3], row[5],row[4]))
-                i+=1
-        """      
+                print((i,row[1],row[2],row[4],row[3],row[0]))
+                cursor.execute(insert_query,(i,row[1],row[2],row[4],row[3],row[0]))
+                i+=1     
 
         # Confirmar los cambios en la base de datos
         connection.commit()
