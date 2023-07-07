@@ -30,7 +30,9 @@ CREATE TABLE Comuna(
     `Nombre_P`    VARCHAR(100) NOT NULL,
     `PoblacionT`  INT          NOT NULL,
     `Nombre_C`    VARCHAR(100) NOT NULL,
-    `ID_R`    VARCHAR(100) NOT NULL,
+    `Superficie_C` VARCHAR(20) NOT NULL,
+    `Densidad_C`  VARCHAR(20) NOT NULL,
+    `ID_R`        VARCHAR(100) NOT NULL,
     PRIMARY KEY (`ID_C`),
     FOREIGN KEY (ID_R) REFERENCES Region (ID_R)
 );
